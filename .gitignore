@@ -1,0 +1,15 @@
+checkpoint
+*.npy
+*.log
+*.xml
+*.iml
+
+
+__pycache__
+
+.idea
+.vscode
+logs
+models
+
+!**/PLACEHOLDER
